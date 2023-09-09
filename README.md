@@ -35,6 +35,7 @@ Here's a recap of all the tasks you've accomplished in your repository:
 - Merge and finalize the release branch.
 - Commit a hotfix to the release.
 - Create release v1.0.1.
+- 😄
 
 ### What's next?
 
